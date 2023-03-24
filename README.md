@@ -2,7 +2,7 @@
 
 <h2>About the project</h2>
 
-  <p>A <b>car rental</b> website is an online platform that allows users to rent cars for personal or business use. The website provides an easy-to-use interface for searching, comparing, and reserving cars from a wide selection of vehicles that vary in make, model, size, and price.</p>
+  <p>A <b>Beemapay</b> BeeMa Pay is a company offering digital payments in Africa under the brand BeeMa Limited Company. We believe that all people should have access to financial services and the opportunity where payments are a seamless part of everyday life.</p>
 
 👉 Live Demo: <a href='https://car-rental-ten.vercel.app/'>Live Demo</a>
 
