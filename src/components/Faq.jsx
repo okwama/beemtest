@@ -56,7 +56,7 @@ function Faq() {
                   onClick={() => openQ("q2")}
                   className={`faq-box__question ${getClassQuestion("q2")}`}
                 >
-                  <p>2. How do I find the car rental deals?</p>
+                  <p>2. What should I do if I need help?</p>
                   <i className="fa-solid fa-angle-down"></i>
                 </div>
                 <div
@@ -64,13 +64,9 @@ function Faq() {
                   onClick={() => openQ("q2")}
                   className={`faq-box__answer ${getClassAnswer("q2")}`}
                 >
-                  You can find car rental deals by researching online and
-                  comparing prices from different rental companies. Websites
-                  such as Expedia, Kayak, and Travelocity allow you to compare
-                  prices and view available rental options. It is also
-                  recommended to sign up for email newsletters and follow rental
-                  car companies on social media to be informed of any special
-                  deals or promotions.
+                  If you have any questions regarding your Beemapay Wallet,
+                   Merchant Account, Agent Set up,
+                    please contact us on (254)741190004. Email us on: info@beemapay.com
                 </div>
               </div>
               <div className="faq-box">
@@ -79,7 +75,7 @@ function Faq() {
                   onClick={() => openQ("q3")}
                   className={`faq-box__question ${getClassQuestion("q3")}`}
                 >
-                  <p>3. How do I find such low rental car prices?</p>
+                  <p>3.What Cards Can I Use On BeeMaPay?</p>
                   <i className="fa-solid fa-angle-down"></i>
                 </div>
                 <div
@@ -87,14 +83,12 @@ function Faq() {
                   onClick={() => openQ("q3")}
                   className={`faq-box__answer ${getClassAnswer("q3")}`}
                 >
-                  Book in advance: Booking your rental car ahead of time can
-                  often result in lower prices. Compare prices from multiple
-                  companies: Use websites like Kayak, Expedia, or Travelocity to
-                  compare prices from multiple rental car companies. Look for
-                  discount codes and coupons: Search for discount codes and
-                  coupons that you can use to lower the rental price. Renting
-                  from an off-airport location can sometimes result in lower
-                  prices.
+                  You can use both debit and credit cards on Beemapay. 
+                  At the moment, we support Visa,
+                   MasterCard and American Express cards.
+
+
+                   <p>Still need help? Get in touch with Pesapal Support here</p>
                 </div>
               </div>
             </div>
