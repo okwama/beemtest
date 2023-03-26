@@ -6,7 +6,7 @@
 
  <p>One digital payment application for multiple services</p>
 
-👉 Live Demo: <a href='https://car-rental-ten.vercel.app/'>Live Demo</a>
+👉 Live Demo: <a href='https://www.beemapay.com'>Live Demo</a>
 
 <h3>Build with:</h3>
 
