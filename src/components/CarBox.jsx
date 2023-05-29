@@ -19,7 +19,7 @@ function CarBox({ data, carID }) {
           {/* description */}
           <div className="pick-description">
             <div className="pick-description__price">
-              <span>${car.price}</span>/ rent per day
+              <span>BeeMa-Pay{car.price}</span>
             </div>
             <div className="pick-description__table">
               <div className="pick-description__table__col">
@@ -59,7 +59,7 @@ function CarBox({ data, carID }) {
             </div>
             {/* btn cta */}
             <a className="cta-btn" href="#booking-section">
-              Reserve Now
+              Request Sample
             </a>
           </div>
         </div>

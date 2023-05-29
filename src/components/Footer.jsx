@@ -9,7 +9,7 @@ function Footer() {
                 <span>BeeMa</span> Pay
               </li>
               <li>
-              BeeMa Pay is a company offering digital payments in Africa under the brand BeeMa Limited Company.
+              BeeMaPay is a company offering payment solutions for customer convenience as a one stop shop to empower communities across Africa and beyond.
               </li>
               {/*<li>
                 <a href="tel:123456789">

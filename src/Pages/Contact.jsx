@@ -9,22 +9,19 @@ function Contact() {
         <div className="container">
           <div className="contact-div">
             <div className="contact-div__text">
-              <h2>Need additional information?</h2>
+              <h2>Reach Out</h2>
               <p>
-                A multifaceted professional skilled in multiple fields of
-                research, development as well as a learning specialist. Over 15
-                years of experience.
+              Send us a message using the contact form or use the information below to reach us
               </p>
               <a href="/">
-                <i className="fa-solid fa-phone"></i>&nbsp; (123) 456-7869
+                <i className="fa-solid fa-phone"></i>&nbsp; (254)74-1190-004
               </a>
               <a href="/">
                 <i className="fa-solid fa-envelope"></i>&nbsp;
-                carrental@carmail.com
+                info@beemapay.com
               </a>
               <a href="/">
-                <i className="fa-solid fa-location-dot"></i>&nbsp; Belgrade,
-                Serbia
+                <i className="fa-solid fa-location-dot"></i>&nbsp; Nairobi, Kenya
               </a>
             </div>
             <div className="contact-div__form">
@@ -56,10 +53,10 @@ function Contact() {
           <div className="book-banner__overlay"></div>
           <div className="container">
             <div className="text-content">
-              <h2>Book a car by getting in touch with us</h2>
+              <h2>Reliable Online Payments</h2>
               <span>
                 <i className="fa-solid fa-phone"></i>
-                <h3>(123) 456-7869</h3>
+                <h3>(254)741190004</h3>
               </span>
             </div>
           </div>

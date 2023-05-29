@@ -19,7 +19,7 @@ function ChooseUs() {
                 <h4>Why Choose Us</h4>
                 <h2>How BeeMa Pay Works</h2>
                 <p>
-                BeeMa Pay provides a simple, safe and secure way for individuals and businesses to make and accept payments in Kenya..
+                BeeMaPay is a company offering payment solutions for customer convenience as a one stop shop to empower communities across Africa and beyond.
                 </p>
                 <p>One digital payment application for multiple services</p>
                 <a href="#home">

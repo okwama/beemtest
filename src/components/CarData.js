@@ -1,25 +1,8 @@
-import Golf6 from "../images/cars-big/golf6.jpg";
 import box from "../images/cars-big/box.png";
-import Toyota from "../images/cars-big/toyotacamry.jpg";
-import Bmw320 from "../images/cars-big/bmw320.jpg";
-import Benz from "../images/cars-big/benz.jpg";
-import Passat from "../images/cars-big/passatcc.jpg";
+import box1 from "../images/cars-big/box1.png";
+import box2 from "../images/cars-big/box3.png";
 
 export const CAR_DATA = [
-  [
-    {
-      name: "VW Golf 6",
-      price: "37",
-      img: Golf6,
-      model: "Golf 6",
-      mark: "Volkswagen",
-      year: "2008",
-      doors: "4/5",
-      air: "Yes",
-      transmission: "Manual",
-      fuel: "Diesel",
-    },
-  ],
   [
     {
       name: "Centerm K5 Android Mini POS",
@@ -27,67 +10,27 @@ export const CAR_DATA = [
       img: box,
       model: "K5",
       mark: "Mini Pos",
-      year: "2020",
-      Card: "4/5",
-      air: "Yes",
-      transmission: "Manual",
-      fuel: "Gasoline",
+      
     },
   ],
   [
     {
-      name: "Toyota Camry",
-      price: "30",
-      img: Toyota,
-      model: "Camry",
-      mark: "Toyota",
-      year: "2006",
-      doors: "4/5",
-      air: "Yes",
-      transmission: "Automatic",
-      fuel: "Hybrid",
+      name: "Android Centerm K9",
+      Os: "Android 7.1",
+      img: box1,
+      model: "K9",
+      mark: "Mini Pos",
+      
     },
   ],
   [
     {
-      name: "BMW 320 ModernLine",
-      price: "35",
-      img: Bmw320,
-      model: "320",
-      mark: "BMW",
-      year: "2012",
-      doors: "4/5",
-      air: "Yes",
-      transmission: "Manual",
-      fuel: "Diesel",
-    },
-  ],
-  [
-    {
-      name: "Mercedes-Benz GLK",
-      price: "50",
-      img: Benz,
-      model: "Benz GLK",
-      mark: "Mercedes",
-      year: "2006",
-      doors: "4/5",
-      air: "Yes",
-      transmission: "Manual",
-      fuel: "Diesel",
-    },
-  ],
-  [
-    {
-      name: "VW Passat CC",
-      price: "25",
-      img: Passat,
-      model: "Passat CC",
-      mark: "Volkswagen",
-      year: "2008",
-      doors: "4/5",
-      air: "Yes",
-      transmission: "Automatic",
-      fuel: "Gasoline",
+      name: "Android Smart POS K10",
+      Os: "Android 7.1",
+      img: box2,
+      model: "K10",
+      mark: "Mini Pos",
+      
     },
   ],
 ];

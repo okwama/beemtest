@@ -46,7 +46,7 @@ function PickCar() {
                     btnID("btn2");
                   }}
                 >
-                  VW Golf 6
+                  Android Centerm K9
                 </button>
                 <button
                   className={`${coloringButton("btn3")}`}
@@ -56,9 +56,9 @@ function PickCar() {
                     btnID("btn3");
                   }}
                 >
-                  Toyota Camry
+                  Android Centerm K10
                 </button>
-                <button
+                {/* <button
                   className={`${coloringButton("btn4")}`}
                   id="btn4"
                   onClick={() => {
@@ -87,7 +87,7 @@ function PickCar() {
                   }}
                 >
                   VW Passat CC
-                </button>
+                </button> */}
               </div>
 
               {active === "FirstCar" && <CarBox data={CAR_DATA} carID={0} />}

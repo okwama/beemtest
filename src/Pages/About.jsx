@@ -22,7 +22,7 @@ function About() {
               <h3>About Company</h3>
               <h2>Reliable Online Payments</h2>
               <p>
-              BeeMa Pay is a company offering digital payments in Africa under the brand BeeMa Limited Company. We believe that all people should have access to financial services and the opportunity where payments are a seamless part of everyday life.
+              BeeMaPay is a company offering payment solutions for customer convenience as a one stop shop to empower communities across Africa and beyond.
               </p>
               {/* <div className="about-main__text__icons">
                 <div className="about-main__text__icons__box">

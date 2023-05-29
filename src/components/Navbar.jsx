@@ -35,7 +35,7 @@ function Navbar() {
             </li>
             <li>
               <Link onClick={openNav} to="/testimonials">
-                Testimonials
+                Personal Payments
               </Link>
             </li>
             <li>
@@ -97,8 +97,8 @@ function Navbar() {
             </li>
           </ul>
           <div className="navbar__buttons">
-            <Link className="navbar__buttons__sign-in" to="/">
-              Sign In
+            <Link className="navbar__buttons__sign-in" to="/Buy">
+              Buy Airtime
             </Link>
             <Link className="navbar__buttons__register" to="/">
               Register

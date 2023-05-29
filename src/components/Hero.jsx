@@ -48,9 +48,9 @@ function Hero() {
                 <Link
                   onClick={bookBtn}
                   className="hero-content__text__btns__book-ride"
-                  to="/"
-                >
-                  Sign Up &nbsp; <i className="fa-solid fa-circle-check"></i>
+                  to="/Buy">
+                
+                  Buy Airtime &nbsp; <i className="fa-solid fa-circle-check"></i>
                 </Link>
                 <Link className="hero-content__text__btns__learn-more" to="/">
                   Learn More &nbsp; <i className="fa-solid fa-angle-right"></i>

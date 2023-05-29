@@ -7,7 +7,7 @@ import Models from "./Pages/Models";
 import TestimonialsPage from "./Pages/TestimonialsPage";
 import Team from "./Pages/Team";
 import Contact from "./Pages/Contact";
-
+import Buy from "./Pages/Buy";
 function App() {
   return (
     <>
@@ -19,6 +19,7 @@ function App() {
         <Route path="Testimonials" element={<TestimonialsPage />} />
         <Route path="team" element={<Team />} />
         <Route path="contact" element={<Contact />} />
+        <Route path="buy" element={<Buy />} />
       </Routes>
     </>
   );

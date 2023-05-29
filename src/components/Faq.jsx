@@ -36,7 +36,7 @@ function Faq() {
                   onClick={() => openQ("q1")}
                   className={`faq-box__question  ${getClassQuestion("q1")}`}
                 >
-                  <p>1.Why Am I Experiencing Delays After Using Mobile Money On Pesapal?</p>
+                  <p>1.Why Am I Experiencing Delays After Using Mobile Money On BeeMa Pay?</p>
                   <i className="fa-solid fa-angle-down"></i>
                 </div>
                 <div
@@ -45,7 +45,7 @@ function Faq() {
                   className={`faq-box__answer ${getClassAnswer("q1")}`}
                 >
                   1. Wrong Paybill or reference number - If you use the wrong paybill number or use an incorrect reference number during the transaction,
-                   Pesapal automatically reverses the transaction
+                  BeeMa-Pay automatically reverses the transaction
 
                   <p>2. System downtime - When systems experience a brief downtime, your transaction may take longer than usual to process.</p>
                 </div>
@@ -88,7 +88,7 @@ function Faq() {
                    MasterCard and American Express cards.
 
 
-                   <p>Still need help? Get in touch with Pesapal Support here</p>
+                   <p>Still need help? Get in touch with BeeMa Pay Support here</p>
                 </div>
               </div>
             </div>

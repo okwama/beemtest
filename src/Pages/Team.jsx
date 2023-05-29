@@ -20,7 +20,7 @@ function Team() {
     <>
       <section className="team-page">
         <HeroPages name="Our Team" />
-        <div className="cotnainer">
+        {/* <div className="cotnainer">
           <div className="team-container">
             {teamPpl.map((ppl, id) => (
               <div key={id} className="team-container__box">
@@ -34,15 +34,15 @@ function Team() {
               </div>
             ))}
           </div>
-        </div>
+        </div> */}
         <div className="book-banner">
           <div className="book-banner__overlay"></div>
           <div className="container">
             <div className="text-content">
-              <h2>Book a car by getting in touch with us</h2>
+              <h2>Reliable Online Payments</h2>
               <span>
                 <i className="fa-solid fa-phone"></i>
-                <h3>(123) 456-7869</h3>
+                <h3>Paybill 8889900</h3>
               </span>
             </div>
           </div>
